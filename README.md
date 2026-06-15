@@ -29,9 +29,9 @@ This is your project home for the FURP programme. **Fork this template**, rename
 | Project title | _Coordinated Control for a Mobile Dual-Arm Robot on a Steering-Wheel Chassis_ |
 | Project tag | _Dual-Arm_Robot_ |
 | Track | Research |
-| Supervising faculty | _..._ |
-| Project lead | _..._ |
-| Team or individual | _..._ |
+| Supervising faculty | _Chiew-Foong Kwong_ |
+| Project lead | _Hongyi Zhao_ |
+| Team or individual | _Team_ |
 | Cited paper being replicated | _title + link/DOI_ |
 
 **One-line summary:** _What is your project about? (1–2 sentences)_
